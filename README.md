@@ -1,0 +1,2 @@
+# Enhanced-Inverse-Model-Predictive-Control-EIMPC-for-EV-Chargers-DC-DC-Side
+Here's a version that's **under 350 characters**:  > Developed an **Enhanced Inverse Model Predictive Control (EIMPC)** for the DC-DC stage of an EV charger using MATLAB/Simulink. Implemented a bidirectional DC-DC converter with predictive current control to regulate battery charging, reduce current ripple, and minimize switching losses.
