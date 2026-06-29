@@ -19,6 +19,7 @@ The entire controller was developed using a MATLAB Function block within Simulin
 Simulation results demonstrate that the implemented controller is capable of maintaining stable battery charging while regulating the charging current and voltage. The predictive nature of the controller enables rapid decision-making, while the enhanced cost function contributes to improved current regulation, reduced ripple, and lower switching activity compared to conventional control strategies.
 
 This project provided practical experience in power electronics, predictive control techniques, converter modeling, MATLAB/Simulink simulation, and advanced control algorithm implementation. It also strengthened the understanding of bidirectional DC-DC converters, model predictive control principles, battery charging strategies, and controller integration for electric vehicle charging applications.
+
 ---
 
 ##  Author
